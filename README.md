@@ -16,6 +16,7 @@ BlueInkPDF is a Windows Forms application that allows you to convert non-white p
 
 ![Conversion Click](https://github.com/dsilverio123/BlueInkPDF/raw/main/ConversionClick.png)
 
+![Sample PDF](https://github.com/dsilverio123/BlueInkPDF/blob/main/After.png)
 
 ## Getting Started
 
